@@ -1,3 +1,5 @@
+package secondHomework;
+
 import org.junit.jupiter.api.Test;
 import org.secondHomework.Car;
 import org.secondHomework.Motorcycle;
